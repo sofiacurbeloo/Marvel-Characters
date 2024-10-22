@@ -1,0 +1,43 @@
+body {
+    background-color: #a80003;
+    background-image: linear-gradient(270deg, #a80003 0%, #120001 100%);
+    font-family: "Montserrat", sans-serif;
+
+}
+
+header{
+    height: 18rem;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.623), rgba(0, 0, 0, 0.5)), url("../img/mearvel-legacy-header-1-1.jpg");
+    background-position: center;
+    background-size: cover;   
+}
+
+.title{
+    font-family: 'Marvel', sans-serif !important;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 6px;
+}
+
+.card-styles {
+    background-color: #110404;
+    box-shadow: 0 0 10px #000;
+}
+
+.img {
+    height: 60%;
+    object-fit: cover;  
+}
+
+.btn-styles {
+    background-color: #a80003;
+    border: none;
+}
+
+.dropdown-styles {
+    background-color: #110404;
+}
+
+
+
+
